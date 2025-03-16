@@ -1,4 +1,5 @@
 # LgAimers6기 온라인 해커톤 (Phase 2)
+https://dacon.io/competitions/official/236452/overview/description  
 최종 제출 코드: Final_code_FertiMind.ipynb
 
 <br>
